@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.vanilacodes.com	TRUE	/	FALSE	1999999999	__cfduid	ded44197012437a965d4c8e7891d473f01620114540
+soul.vanilacodes.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+soul.vanilacodes.com	TRUE	/	FALSE	1999999999	PHPSESSID	f3ac18b199a92a228d38fd3c4d118ae5
+.cloudflare.com	TRUE	/	FALSE	1999999999	__cfduid	d1834098e6d5a47d4cabb575158cb46531620114578
+ajax.cloudflare.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
